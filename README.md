@@ -1,6 +1,9 @@
 # LiveDemo
 A demo of live that used IJKPlayer &amp; LFLiveKit
 
+# Preview
+真机推流, 模拟器拉流
+![image](https://github.com/zhiyuanFan/LiveDemo/raw/master/screenshot.gif)
 
 # Part I - Install Nginx & Nginx-Rtmp module 
 
