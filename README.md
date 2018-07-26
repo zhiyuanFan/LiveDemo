@@ -92,3 +92,5 @@ ffmpeg -re -i /Users/qooapp/Desktop/test.mp4 -vcodec libx264 -acodec aac -strict
   1. 手机和服务器(自己的Mac)使用同一wifi, 或在同一网段内
   2. 手机wifi设置代理, 代理服务器地址为Mac的IP地址, 端口号80
   3. Mac关闭防火墙 : [安全/隐私] -> [防火墙] 
+* 播放手机推向本地服务器的视频时, 声音同步,而视频只有一帧时, 请选择非VLC 播放器, 如: [LionPlayer](http://lionplayer.com/cn/index.php/zh/), 或直接使用集成ijkplayer的模拟器播放.
+
