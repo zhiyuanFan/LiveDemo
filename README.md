@@ -82,6 +82,10 @@ ffmpeg -re -i /Users/qooapp/Desktop/test.mp4 -vcodec libx264 -acodec aac -strict
 
 5. 右键该链接选择[play] 播放按钮
 
+6. 添加第三方框架: [ijkplayer](https://github.com/Bilibili/ijkplayer), 使用真机及模拟器测试
+7. 拉流时出现只有画面没有声音时, 请参考: [issue 3643](https://github.com/Bilibili/ijkplayer/issues/3643), 并重新打包
+
+
 # Part III - Push Stream 
 * 第三方框架: [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)
 * 访问本地服务器时要注意: 
