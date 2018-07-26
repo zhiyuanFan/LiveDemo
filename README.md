@@ -82,7 +82,7 @@ ffmpeg -re -i /Users/qooapp/Desktop/test.mp4 -vcodec libx264 -acodec aac -strict
 
 5. 右键该链接选择[play] 播放按钮
 
-6. 添加第三方框架: [ijkplayer](https://github.com/Bilibili/ijkplayer), 使用真机及模拟器测试
+6. 添加第三方框架: [ijkplayer](https://github.com/Bilibili/ijkplayer), 打包方式请参考:[打包](https://www.jianshu.com/p/1f06b27b3ac0), 并使用真机及模拟器测试
 7. 拉流时出现只有画面没有声音时, 请参考: [issue 3643](https://github.com/Bilibili/ijkplayer/issues/3643), 并重新打包
 
 
