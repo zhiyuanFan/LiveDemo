@@ -1,5 +1,5 @@
 # LiveDemo
-A demo of live that used IJKPlayer &amp; LFLiveKit
+A demo  used IJKPlayer &amp; LFLiveKit
 
 # Preview
 真机推流, 模拟器拉流
